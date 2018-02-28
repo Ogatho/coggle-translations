@@ -16,15 +16,15 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "The clear way to share complex information.">
-<index-signupnow "Sign Up Now">
-<index-login "Already signed up? Log in here.">
+<index-tagline "O jeito claro de compartilhar informações complexas.">
+<index-signupnow "Cadastre-se agora">
+<index-login "Já se cadastrou? Entre aqui.">
 
-<index-nav-pricing "Pricing">
-<index-nav-features "Features">
-<index-nav-gallery "Gallery">
+<index-nav-pricing "Preços">
+<index-nav-features "Funcionalidades">
+<index-nav-gallery "Galeria">
 
-<index-unleash "Unleash your creativity">
+<index-unleash "Libere sua criatividade">
 <index-blurb "Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.">
 <index-viewgallery "Or take a look at the <a>Coggle Gallery</a> for inspiration.">
 
